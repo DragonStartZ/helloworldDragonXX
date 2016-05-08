@@ -1,3 +1,2 @@
 # helloworldDragonXX
-hello this is DragonStartZ
-lets get..  
+lets get
